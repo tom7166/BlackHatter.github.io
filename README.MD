@@ -1,4 +1,4 @@
-# StoryTom Digital Solutions - Digital Marketing & DevOps
+# StoryTom Digital Solutions - Digital Marketing & DevOps & A.I. Engineering 
 
 ## Buffalo's Premier Digital Agency
 
@@ -29,8 +29,8 @@ Expert Digital Marketing and DevOps solutions delivering proven results. Transfo
 
 ### Contact
 
-- Email: contact@storytom.com
+- Email: Thomasstory716.com
 - Location: Buffalo, NY
 - Website: [storytom.com](https://storytom.com)
 
-© 2024 StoryTom Digital Solutions. All rights reserved.
+© 2025 StoryTom Digital Solutions. All rights reserved.
